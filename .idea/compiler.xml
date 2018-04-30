@@ -26,8 +26,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Demo-GitHub" target="1.8" />
-      <module name="Demo-web" target="1.8" />
+      <module name="Demo-GitHub" target="1.5" />
+      <module name="Demo-web" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
